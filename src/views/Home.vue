@@ -7,10 +7,12 @@
 </script>
 
 <style scoped>
-div.homer {
+.homer {
   width: 100vw;
-  height: 100wh;
+  height: 100%;
   background-color: pink;
   display: block;
+  background-image: url("/images/home.jpg");
+  background-size: cover;
 }
 </style>
